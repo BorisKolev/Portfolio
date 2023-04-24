@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4b9887fa.css",
-    "main.js": "/portfolio/static/js/main.209d75d3.js",
+    "main.js": "/portfolio/static/js/main.4a4a6627.js",
     "static/media/Snake.mp4": "/portfolio/static/media/Snake.54ccd95629bbb7a223eb.mp4",
     "static/media/Percy.mp4": "/portfolio/static/media/Percy.116da4b72504e926cf4b.mp4",
     "static/media/Maggie.mp4": "/portfolio/static/media/Maggie.f4608440beaf3d6281f5.mp4",
     "static/media/ProgrammingViewer.png": "/portfolio/static/media/ProgrammingViewer.8cc8ba168828dc0ef68b.png",
     "static/media/ME2.jpg": "/portfolio/static/media/ME2.edf8601de40662454466.jpg",
-    "static/media/Borislav_Kolev_CV.pdf": "/portfolio/static/media/Borislav_Kolev_CV.44a62e7b206c4549e1ef.pdf",
+    "static/media/Borislav_Kolev_CV.pdf": "/portfolio/static/media/Borislav_Kolev_CV.e5678b30be0c970a25e2.pdf",
     "static/media/ME1.jpg": "/portfolio/static/media/ME1.7a20eef2842c28966e66.jpg",
     "static/media/bg-texture.jpg": "/portfolio/static/media/bg-texture.3bff66c7874f740a8211.jpg",
     "static/media/LR_Text_Classifier.PNG": "/portfolio/static/media/LR_Text_Classifier.ee011d54fd56652c9b68.PNG",
@@ -15,10 +15,10 @@
     "static/media/Puzzle_Finder.PNG": "/portfolio/static/media/Puzzle_Finder.27b61786c75ad8d423e5.PNG",
     "index.html": "/portfolio/index.html",
     "main.4b9887fa.css.map": "/portfolio/static/css/main.4b9887fa.css.map",
-    "main.209d75d3.js.map": "/portfolio/static/js/main.209d75d3.js.map"
+    "main.4a4a6627.js.map": "/portfolio/static/js/main.4a4a6627.js.map"
   },
   "entrypoints": [
     "static/css/main.4b9887fa.css",
-    "static/js/main.209d75d3.js"
+    "static/js/main.4a4a6627.js"
   ]
 }
